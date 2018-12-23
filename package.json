@@ -1,0 +1,22 @@
+{
+  "name": "javascript_project",
+  "version": "1.0.0",
+  "description": "개인 포트폴리오 전용 프로젝트 입니다.\r 영화 스트리밍 사이트이며 오라클 DB가 필요합니다.\r 데이터베이스없이 메인기능은 작동합니다.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutaelee/my-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kutaelee/my-app/issues"
+  },
+  "homepage": "https://github.com/kutaelee/my-app#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
